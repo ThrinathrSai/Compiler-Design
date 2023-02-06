@@ -20,9 +20,6 @@ yylex();
 printf("Number of Constants : %d\n", cons); 
 fclose(yyin); 
 } 
-
-
-
 //input c program//
 #include<stdio.h> 
 int main() 
